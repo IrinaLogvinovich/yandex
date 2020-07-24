@@ -1,0 +1,14 @@
+.places {
+    max-width: 984px;
+    margin: 0 auto;
+    padding: 51px 0;
+    display: grid;
+    grid-gap: 83px;
+}
+
+@media(max-width: 767px) {
+    .places {
+        grid-gap: 50px;
+        padding: 32px 0;
+    }
+}

@@ -1,0 +1,9 @@
+.comments__subtitle {
+    margin-bottom: 65px;
+}
+
+@media(max-width: 767px) {
+    .comments__subtitle {
+        margin-bottom: 40px;
+    }
+}

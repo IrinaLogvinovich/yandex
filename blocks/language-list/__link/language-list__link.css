@@ -1,0 +1,18 @@
+.language-list__link {
+    color: inherit;
+    font-size: 24px;
+    line-height: 23px;
+    text-decoration: none;
+}
+
+.language-list__link:hover {
+    transition: all 0.4s ease;
+    opacity: 0.8;
+}
+
+@media(max-width: 767px) {
+    .language-list__link {
+        font-size: 18px;
+        line-height: 17px;
+    }
+}

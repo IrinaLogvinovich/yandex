@@ -1,0 +1,6 @@
+.video__item {
+    color: inherit;
+    border-radius: 6px;
+    overflow: hidden;
+    text-decoration: none;
+}

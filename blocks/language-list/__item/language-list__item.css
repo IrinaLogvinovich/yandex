@@ -1,0 +1,10 @@
+.language-list__item {
+    margin-left: 18px;
+}
+
+@media(max-width: 767px) {
+    .language-list__item {
+        padding-top: 10px;
+        margin-left: 22px;
+    }
+}

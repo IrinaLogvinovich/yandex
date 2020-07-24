@@ -1,0 +1,11 @@
+.comments {
+    padding-bottom: 51px;
+    padding-top: 51px;
+}
+
+
+@media(max-width: 767px) {
+    .comments {
+        padding: 32px 16px;
+    }
+}
